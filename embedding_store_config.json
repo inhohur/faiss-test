@@ -1,0 +1,1 @@
+{"dimension": 1536, "engine_type": "LangChain", "index_type": "FlatL2", "model_type": "AOAI", "model_name": "text-embedding-ada-002", "model_api_base": "https://oai-pgd-d-eu1-ai.openai.azure.com/", "model_api_version": "2023-05-15"}
